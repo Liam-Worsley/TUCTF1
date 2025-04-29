@@ -1,0 +1,13 @@
+Problem Name: HibbsAndDragons
+Problem Category: OSINT
+Problem Description: 
+
+
+Out of all d100 stores around San Antonio, there is only one place Dr. Hibbs likes to go for his D&D sessions. I want to find out 
+where he goes so I can ask him to help me with my homework in between combat rounds.
+
+He has hinted that the place was that there has good drinks and great performances (whatever the hell that means).
+He also said that since the Dungeon Master is continuously late, thankfully his group is able to play lots of games while they wait.
+Please put the name of the store in the following format: TUCTF1{Store_Name} for example: TUCTF1{Tycoon_Flats}
+
+4th Wall Break: I have no idea if Dr. Hibbs has ever been here, I'm just making all this up for the ctf :)

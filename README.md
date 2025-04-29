@@ -26,5 +26,6 @@ RULES
 5. After someone finishes the competition, I will announce it to the CS Major's List so please don't email me afterwards instead hunt me down in person, I'm usually in CSI 270A.
 6. NO BRUTE FORCING - looking at you Chase <3
 7. ChatGPT, AI, and your local professors are at your disposal, go annoy them instead of me.
-8. If you notice any errors, bugs, or anything else concering please let me know. Reports of bugs will receive a crisp high five.
-9. Have fun! But not too much fun its finals season :)
+8. You can work in groups of teams, please do not have super big ones though. Make sure to put all of your names when you submit.
+9. If you notice any errors, bugs, or anything else concering please let me know. Reports of bugs will receive a crisp high five.
+10. Have fun! But not too much fun its finals season :)

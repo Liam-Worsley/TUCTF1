@@ -1,0 +1,34 @@
+Problem Name: LongCovid
+Problem Category: misc
+Problem Description: 
+
+
+A MYERS PROBLEM!!! and there was much rejoycing
+I made this problem definetely in 2020 and not on April 28th while eating goldfish at 2am. 
+Since 2020 was covid years, I forgot about this problem and I don't remember what the secret code was, I blame long covid.
+Can you figure it out???
+P.S. I dont know how to put the epsilon character in VS Code so I just wrote it out fully
+
+FLAG -> T U C T F 1 { A }
+A -> ELYQS
+B -> Dt
+D -> DN | DZ
+E -> BIkW
+G -> 0
+H -> Kt
+I -> a
+J -> GrP
+K -> _
+L -> KaXv
+M -> aZ
+N -> epsilon | Zepsilon
+O -> NeZ
+P -> yN | D
+Q -> XHhD
+R -> cZ
+S -> WV
+V -> NJ
+W -> 3
+X -> dN | dD
+Y -> MnRO
+Z -> epsilon

@@ -1,0 +1,11 @@
+Problem Name: MansBestFriend
+Problem Category: Cryptography
+Problem Description: 
+
+Have you seen Dr. Tan's robotic dog in his office? It's sooo cute!!!
+But is it called robotic dog? robot dog? robodog? rdog?
+I'm not too sure but all I know is you have to DRAG me away from it.
+Anyways enough hints here's not one but 2 ciphertexts, one for you and one for the dog, I encoded them both:
+
+4fb5000e97c9662ab62881cdbfc0b54835a8c489cf8816477f75b412fa4bd08c3a0cfa
+698f2135b5977a3fb6258af6bac8a57824a8cc90c1941e7a6479b206d74bdc866c56e0

@@ -1,0 +1,7 @@
+Problem Name: OfficeHoursAreForRSA
+Problem Category: Cryptography
+Problem Description: 
+
+Hi Dr. Jacob! I know you're reading this because you said I should make a ctf, so here's an RSA problem for you!
+Idk how to solve it either so I may need to come into your office hours so we can square up.
+Anyways enough hints, here is a python file for how I did the problem, and my ciphertext output I got.

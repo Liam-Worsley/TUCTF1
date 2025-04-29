@@ -1,6 +1,6 @@
 # TUCTF1
 
-This is technically the first Trinity University CTF!!!
+This is maybe the first Trinity University CTF!!!
 Gonna be really scuffed so bear with me. A decent amount of challenge categories will be missing, if people like this one I will try to make another with more stuff. Winner gets a mystery gift (TBD).
 
 RULES

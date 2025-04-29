@@ -1,0 +1,9 @@
+Problem Name: ScalaEWW
+Problem Category: OSINT
+Problem Description: 
+
+
+SCALA EEEEEEEWWWWWWWWWWWWWWWWWWW *insert gag emoji*
+To cleanse myself of seeing that gross syntax I'm gonna go here right when school ends. 
+However, I have no idea where this image is located, can you help me find the address?
+Flag Format: TUCTF1{Number_Something_Something_Something_City_State_ZipCode}

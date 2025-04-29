@@ -21,7 +21,7 @@ RULES
 
    HibbsAndDragons: {SOLUTION HERE}
 
-   ScalaSkaters: {SOLUTION HERE}
+   ScalaEWW: {SOLUTION HERE}
 
 3. All solutions should be submitted in the format TUCTF1{something_will_be_in_here}. 
 4. Please wait until you get a reply from me before you submit again, I will only tell you if you got all of them right or wrong. Please be patiend, I have no idea how many of y'all will do this so I may get overwhelmed. Most of the answers will be pretty noticeable if you get them.

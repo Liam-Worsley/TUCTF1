@@ -13,11 +13,9 @@ RULES
 
    OfficeHoursAreForRSA: {SOLUTION HERE}
 
-   CanThisCountAsMyGameDevClass: {SOLUTION HERE}
-
    LongCovid: {SOLUTION HERE}
 
-   ZhangAISong: {SOLUTION HERE}
+   IsZhangARobot: {SOLUTION HERE}
 
    HibbsAndDragons: {SOLUTION HERE}
 
